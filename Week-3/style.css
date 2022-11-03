@@ -1,9 +1,47 @@
 body {
     width: 75%;
     margin: 10px auto;
+    font-family: 'Merriweather', serif;
 }
 
 h1, h2, h3 {
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
 }
+
+#arrays {
+    margin: 10px auto;
+    width: 75%;
+    text-align: center;
+}
+
+#arrays img {
+    width: 75%;
+}
+
+h2 {
+    border-bottom: 2px solid #cdcdcd;
+    padding: 10px;
+}
+
+p {
+    font-size: 1.1em;
+    margin: 10px auto;
+    padding: 10px 0;
+    width: 85%;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.row1 td {
+    border: 5px solid black;
+}
+
+td {
+    width: 25%;
+}
+

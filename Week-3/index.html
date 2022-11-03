@@ -15,10 +15,49 @@
   </head>
   <body>
     <h1>Week 3 - Arrays, Functions, and Objects</h1>
-
-    <script src="arrays.js"></script>
-    <script src="functions.js"></script>
-    <script src="objects.js"></script>
+    <div id="arrays">
+        <img src="images/arrays.png" alt="arrays">
+        <h2>What are arrays?</h2>
+        <p>Arrays are convenient ways to store several different (but usually related) pieces of data withing JavaScript.</p>
+        <p>They can be empty or as long as you want them to be. They can contain similar types of values or differnt types of values.</p>
+        <p>This is a perfectly valid way to think of an array:</p>
+        <table>
+            <tr class="row1">
+                <td>7238</td>
+                <td>3.14</td>
+                <td>1000000000</td>
+                <td>-55</td>
+            </tr>
+            <tr class="row2">
+                <td>0</td>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+        </table>
+        <p>As is this array:</p>
+        <table>
+            <tr class="row1">
+                <td>true</td>
+                <td>{name: "Jeff"}</td>
+                <td>500</td>
+                <td>"Hello World"</td>
+            </tr>
+            <tr class="row2">
+                <td>0</td>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+        </table>
+        <p>Just always remember you start counting the slots in an array at <em>ZERO</em>! And you can access the last element of an array by accessing the <em>length</em> method on an array like so:</p>
+        <p><code>someArray[someArray.length - 1]</code></p>
+        <p>You need the minus 1 to make up for the count starting at 0!</p>
+    </div>
+    
+    <!-- <script src="arrays.js"></script> -->
+    <!-- <script src="functions.js"></script> -->
+    <!-- <script src="objects.js"></script> -->
     <script src="equality.js"></script>
   </body>
 </html>
