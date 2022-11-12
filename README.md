@@ -11,3 +11,9 @@
 
 ### Week 4 (With George Heeres)
 [Week 4 Class Recording](https://youtu.be/tl_ovvFY6xk)
+
+### Week 5 
+[Week 5 Class Recording](https://drive.google.com/file/d/1q4QzWKnQ4_GLJux9P42MPxSvnmZSybAs/view?usp=share_link)
+
+### Week 6
+[Week 6 Class Recording](https://drive.google.com/file/d/1QNTnbIEp6im0cZnmTqn-K3qXX6PbI8zS/view?usp=share_link)
